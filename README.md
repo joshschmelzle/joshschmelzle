@@ -1,1 +1,4 @@
-Hello! I'm Josh and I'm a Wi-Fi network engineer with a background in computer science. I enjoy working with Wi-Fi, learning about new technologies, and Python.
+- 🤖 Hello! I'm Josh Schmelzle
+- 📡 I enjoy working with Wi-Fi
+- 🐉 Python is a jam
+- ⚡ Fun fact: I like mechanical keyboards ⌨️, Head-Fi 🎧 and music of all kinds 🎹🎶

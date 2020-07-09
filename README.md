@@ -1,4 +1,4 @@
 - 🤖 Hello! I'm Josh Schmelzle
-- 📡 I enjoy working with Wi-Fi
+- 🐦 I'm on Twitter: [@joshschmelzle](https://twitter.com/joshschmelzle)
 - 🐉 Python is awesome
-- ⚡ Fun fact: I like mechanical keyboards ⌨️, Head-Fi 🎧, and music of all kinds 🎹🎶
+- ⚡ Fun fact: I like mechanical keyboards ⌨️, Head-Fi 🎧, and music! 🎹

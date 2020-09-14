@@ -3,7 +3,7 @@
   <img src="https://github.com/joshschmelzle/joshschmelzle/blob/profile/wizard-v2-light-colors.PNG" alt="wizard holding a staff radiating Wi-Fi" width="35%" height="35%">
 </p>
 <details>
-  <summary align="center"><samp>on a digital journey thru waves, frames, and pixels.</samp></summary>
+  <summary align="center"><samp>on <i>that</i> digital journey thru waves, frames, and pixels.</samp></summary>
   <hr>
   <p>heyo, i'm <strong>josh</strong> (he/him/his) (づ｡◕‿‿◕｡)づ 📶 i'm a Wi-Fi network <code>engineer</code> + <code>programmer</code>. ⚡ i <3 🐉 python, ⌨️ video games, 🎧 head-fi, and 🎹 playing musical instruments!
   </p>

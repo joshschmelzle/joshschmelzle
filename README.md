@@ -1,6 +1,6 @@
 <!-- thanks @skullface for the inspiration!!! https://raw.githubusercontent.com/skullface/skullface/master/README.md -->
 <p align="center" style="color: #000;">
-  <img src="https://github.com/joshschmelzle/joshschmelzle/blob/profile/wizard-v2-light-colors (1).svg" alt="wizard holding a staff radiating Wi-Fi" width="35%" height="35%">
+  <img src="https://github.com/joshschmelzle/joshschmelzle/blob/profile/wizard-v2-light-colors (2).svg" alt="wizard holding a staff radiating Wi-Fi" width="35%" height="35%">
 </p>
 <details>
   <summary align="center"><samp>on <i>that</i> digital journey thru waves, frames, and pixels.</samp></summary>

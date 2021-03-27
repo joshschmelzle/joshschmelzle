@@ -1,7 +1,7 @@
 <!-- thanks @skullface for the inspiration!!! https://raw.githubusercontent.com/skullface/skullface/master/README.md -->
-<!--<p align="center">
-  <img style="border: 1px solid blue;" src="https://github.com/joshschmelzle/joshschmelzle/blob/profile/wizard-v2-light-colors.PNG" alt="wizard holding a staff radiating Wi-Fi" width="35%" height="35%">
-</p>-->
+<p align="center">
+  <img src="https://github.com/joshschmelzle/joshschmelzle/blob/profile/wizard-v2-darkmode.PNG" alt="wizard holding a staff radiating Wi-Fi" width="25%" height="25%">
+</p>
 <details>
   <summary align="center"><samp>on <i>that</i> digital journey thru waves, frames, and pixels.</samp></summary>
   <hr>

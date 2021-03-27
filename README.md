@@ -10,7 +10,7 @@
   <p>i <3 🐉 python, ⌨️ video games, 🎧 head-fi, and 🎹 playing musical instruments!</p>
   <hr>
   <p>
-    I'm currently working on:
+    i'm currently working on:
     <ul>
       <li>WLAN Pi client capabilities profiler and webstack</li>
       <li>lswifi: a CLI Wi-Fi scanner for Windows</li>

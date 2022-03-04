@@ -8,7 +8,7 @@
   <p>
     i'm currently working on:
     <ul>
-      <li><a href="https://github.com/WLAN-Pi">WLAN Pi</a>; Wi-Fi client capabilities <a href="https://github.com/WLAN-Pi/profiler">profiler</a>, frontend <a href="https://github.com/WLAN-Pi/wlanpi-webui">webui</a>, and core <a href="https://github.com/WLAN-Pi/wlanpi-core">backend</a></li>
+      <li><a href="https://github.com/WLAN-Pi">WLAN Pi</a>; Wi-Fi client capabilities <a href="https://github.com/WLAN-Pi/profiler">profiler</a>, frontend <a href="https://github.com/WLAN-Pi/wlanpi-webui">webui</a>, QA testing, CI/CD through GHA, and more.</li>
       <li><a href="https://github.com/joshschmelzle/lswifi">lswifi</a>: a CLI Wi-Fi scanner for Windows leveraging Native Wifi/wlanapi.h</li>
     </ul>
   </p>
